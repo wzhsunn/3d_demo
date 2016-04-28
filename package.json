@@ -1,0 +1,17 @@
+{
+  "main": "http://127.0.0.1:8060",
+  "name": "demo",
+  "description": "demo app ",
+  "version": "0.1.0",
+  "keywords": [ "demo"  ],
+  "window": {
+    "title": "demo",
+    "icon": "link.png",
+    "toolbar": true,
+    "fullscreen":true
+    
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
